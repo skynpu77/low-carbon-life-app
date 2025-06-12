@@ -2,6 +2,8 @@
 
 一个基于 Vue3 + uni-app 开发的跨平台低碳生活管理应用，帮助用户记录、分析和改善个人碳足迹，培养环保生活习惯。
 
+是西北工业大学碳中和技术与前景课程大作业
+
 ## 📱 应用截图
 
 > 支持微信小程序、H5、App等多端运行
@@ -241,9 +243,9 @@ class AuthManager {
 
 ## 📞 联系方式
 
-- **项目地址**: https://github.com/your-username/my-vue3-project
-- **问题反馈**: https://github.com/your-username/my-vue3-project/issues
-- **邮箱**: your-email@example.com
+- **项目地址**: https://github.com/skynpu77/low-carbon-life-app
+- **问题反馈**: https://github.com/skynpu77/low-carbon-life-app/issues
+- **邮箱**:sky04026npu@gmail.com
 
 ## 🔄 更新日志
 
